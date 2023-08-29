@@ -1,0 +1,45 @@
+li a:hover{
+    border-bottom: 3px solid rgb(228, 180, 8);
+    color: rgb(0, 0, 0);
+}
+
+#ab-img{
+    display: flex;
+    flex-direction:row;
+    padding: 75px;
+    padding-right: 5px;
+    width: fit-content;
+    padding-left: 250px;
+}
+
+#para{
+  width: 100%;
+  padding: 15px;
+  text-align: justify;
+}
+#abCon h1{
+    text-align: center;
+    font-weight: 900;
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h4{
+    text-align: center;
+}
+#abCon span{
+        text-decoration: underline;
+        text-align: center;
+    
+    }
+#card{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    
+    
+}
+#list li a{
+    justify-content: space-between;
+        margin: 10px 12px;
+    
+}
